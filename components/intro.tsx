@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://i.ibb.co/2MC5P6V/IMG-3996-min.jpg"
+              src="https://i.postimg.cc/Y9cT30h6/IMG-3996-min.jpg"
               alt="Demo portrait"
               width="192"
               height="192"
